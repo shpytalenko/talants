@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
-
+#ruby '2.0.0'
+ruby 'ruby-2.0.0-p451'
 # Standard Rails gems
 gem 'rails', '4.2.0'
 gem 'sass-rails', '5.0.1'
